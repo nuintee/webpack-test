@@ -1,1 +1,1 @@
-console.log("a");
+(()=>{"use strict";console.log((()=>"B"))})();
